@@ -1,0 +1,4 @@
+doctrine:
+    dbal:
+        types:
+            price: App\CustomTypes\Price
